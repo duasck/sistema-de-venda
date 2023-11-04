@@ -1,0 +1,7 @@
+#produtos{
+    display: flex;
+    flex-wrap: wrap-reverse;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
