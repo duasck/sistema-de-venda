@@ -46,7 +46,7 @@ function deleteProdutos(id){
       console.log(response.data)
     })
     .catch(error => {
-      console.error('Erro na srequisição:', error);
+      console.error('Erro na requisição:', error);
     });
 }
 
